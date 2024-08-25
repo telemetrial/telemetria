@@ -25,4 +25,5 @@ class accesoBD{
   else $pArray->code = '300';
   return $pArray;
 }
+}
 ?>
